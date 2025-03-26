@@ -1,0 +1,23 @@
+Accuracy,NaiveBayes,J48,OneR,Logistic,Attribute Avg
+CorrelationAttributeEval,75.4824,91.1464,92.395,76.6175,83.910325
+CfsSubsetEval,76.6175,90.1249,92.5085,76.6175,83.9671
+InfoGainAttributeEval,76.6175,89.8978,92.5085,76.6175,83.910325
+OneRAttributeEval,76.6175,90.2384,92.395,76.6175,83.9671
+Our Chosen Attributes,76.6175,88.8763,92.395,76.6175,83.626575
+Classifier Avg,76.39048,90.05676,92.4404,76.6175,
+,,,,,
+TP Rate,NaiveBayes,J48,OneR,Logistic,Attribute Avg
+CorrelationAttributeEval,0.019,0.66,0.675,0,0.3385
+CfsSubsetEval,0,0.684,0.68,0,0.341
+InfoGainAttributeEval,0,0.675,0.68,0,0.33875
+OneRAttributeEval,0,0.68,0.675,0,0.33875
+Our Chosen Attributes,0,0.621,0.675,0,0.324
+Classifier Avg,0.0038,0.664,0.677,0,
+,,,,,
+ROC Area,NaiveBayes,J48,OneR,Logistic,Attribute Avg
+CorrelationAttributeEval,0.55,0.842,0.837,0.522,0.68775
+CfsSubsetEval,0.585,0.831,0.84,0.549,0.70125
+InfoGainAttributeEval,0.546,0.826,0.84,0.501,0.67825
+OneRAttributeEval,0.574,0.866,0.837,0.539,0.704
+Our Chosen Attributes,0.562,0.796,0.837,0.536,0.68275
+Classifier Avg,0.5634,0.8322,0.8382,0.5294,

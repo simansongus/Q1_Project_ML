@@ -1,0 +1,6 @@
+Attribute Eval,Attribute Avg ROC Area,Attribute Avg TP,Attribute Avg Accuracy,Classifier Alg,Classifier Avg ROC Area,Classifier Avg TP,Classifier Avg Accuracy
+CorrelationAttributeEval,0.68775,0.3385,83.910325,NaiveBayes,0.5634,0.0038,76.39048
+CfsSubsetEval,0.70125,0.341,83.9671,J48,0.8322,0.664,90.05676
+InfoGainAttributeEval,0.67825,0.33875,83.910325,OneR,0.8382,0.677,92.4404
+OneRAttributeEval,0.704,0.33875,83.9671,Logistic,0.5294,0,76.6175
+Our Chosen Attributes,0.68275,0.324,83.626575,,,,
